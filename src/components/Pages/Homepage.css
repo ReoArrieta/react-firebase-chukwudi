@@ -1,0 +1,23 @@
+.border {
+  border: 1px solid #000;
+}
+
+.box {
+  background: #00d1b2;
+}
+
+.sizeImgHeader {
+  width: 25%;
+}
+
+.categories {
+  float: left;
+}
+
+h1.categories {
+  margin: 0 39.6% 0 0;
+}
+
+.categories p {
+  margin: 10px 40px 0 0;
+}
